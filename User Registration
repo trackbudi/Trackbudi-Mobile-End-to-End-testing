@@ -1,0 +1,30 @@
+
+Test Case 1: User Registration/Login
+
+Test Case Title: User Registration and Login
+
+Test Case ID: FT-01
+
+Description: Verify that users can successfully register for an account and log in to the application.
+
+Preconditions:
+The application is installed and launched.
+The user is on the registration/login screen on the profile page.
+
+Test Steps:
+log in options
+Apple account, Facebook account, google account, email address
+Click on the "continue with email".
+Enter a valid user email address that is available to receive a confirmation code.
+click "send email"
+Enter the confirmation code that was sent 
+Verify that the user is successfully logged in 
+Verify that the user's name or profile picture (if applicable) is displayed on the home screen.
+
+Expected Results:
+The user should be able to complete the registration and login processes without any errors.
+After successful login, the user should land on the profile screen with their name or profile picture visible.
+
+Actual Result: 
+The user is able to complete the registration and login process without any errors.
+After login, the user lands on the profile screen page with their name and profile picture visisble
