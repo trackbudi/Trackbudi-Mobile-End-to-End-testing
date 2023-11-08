@@ -13,7 +13,7 @@ The user is on the registration/login screen on the profile page.
 
 Test Steps:
 Signup Option
-Phone Number
+
 
 Enter a valid user phone number that is available to receive a confirmation code.
 click "Verify and continue"
