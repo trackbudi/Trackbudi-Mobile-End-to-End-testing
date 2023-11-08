@@ -18,7 +18,7 @@ Click Create Store
 
 
 Expected Results:
-User should be able to create Store 
+User should be able to create Store  and see message "store has been successfully created"
 
 Actual Result: 
-User is able to Create store 
+User is able to Create store nd see message "store has been successfully created"
