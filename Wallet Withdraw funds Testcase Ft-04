@@ -1,0 +1,27 @@
+Test Case 05: Wallet Withdraw funds 
+
+Test Case Title: Wallet Withdraw funds 
+
+Test Case ID: Wallet Withdraw fundsFt - 04
+
+Description: Verify that users can Withdraw funds
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps to Withdraw funds:
+Click on wallet 
+click on the settings button on the top right corner
+click add details
+Select bank name
+Enter account number
+Navigate to wallet 
+Click withdraw funds
+Enter amount
+Enter description 
+Enter password
+Expected Results:
+User should be able to add funds to the wallet
+
+Actual Result: 
+
