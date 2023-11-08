@@ -1,1 +1,23 @@
+Test Case 2: Account Verification 
 
+Test Case Title: Account Verification
+
+Test Case ID: Account Setup - 01
+
+Description: Verify that users can Upload CAC Liciense ID anf Government ID.
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps:
+Click on the verify account at the top corner
+Click proceed
+
+Expected Results:
+Users should be able to select and view news articles from different categories.
+Articles should be displayed correctly, including any multimedia elements.
+Navigation within articles and interaction features should work as expected.
+
+Actual Result: 
+User is able to select and view news article from different categories.
+Articles are displayed correctly, including multimedia elements
