@@ -1,0 +1,31 @@
+Test Case 04: Add products to store
+
+Test Case Title: Add products to store
+
+Test Case ID: Add products to store Ft - 02
+
+Description: Verify that users can add product to created store 
+
+Preconditions:
+The user is logged in and on the application's All stores page.
+
+Test Steps:
+Click on the Store you want to upload products
+Click add product
+Select product category 
+Select sub category
+provide product name 
+Provide description of the product 
+Upload main product image
+click have different size or colors to upload differnt colors or size
+Provide product quantity
+Enter product weight
+Enter Purchase Price 
+Enter selling Price 
+Click on List product or save to draft
+
+Expected Results:
+User should be able to add products to a created Store  and see message "Product added successfully"
+
+Actual Result: 
+User is able to add products to a created Store  and see message "Product added successfully"
