@@ -1,0 +1,25 @@
+Test Case 2: Account Verification 
+
+Test Case Title: Account Verification
+
+Test Case ID: Account Setup - 01
+
+Description: Verify that users can Upload CAC Liciense ID anf Government ID.
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps:
+Click on the verify account at the top corner
+Click proceed
+Click Upload to provide CAC registration license (optional)
+Click upload to provide government issued ID
+Click verify my identity
+
+Expected Results:
+User should be able to upload all required and optional documents and after clicking submit can see "Account verification in progress"
+
+Actual Result: 
+User is able to upload all required and optional documents
+Clicking submit Shows "Account verification in progress"
+
