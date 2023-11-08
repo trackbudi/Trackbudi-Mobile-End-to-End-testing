@@ -1,0 +1,23 @@
+Test Case 03: Service Detail
+
+Test Case Title: Account Verification
+
+Test Case ID: Account Setup - 03
+
+Description: Verify that users can Update their operating day and operating hours.
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps:
+Click on the add your service details at the top corner
+Click proceed
+Select your operating days 
+Selct your operating time 
+Click save
+
+Expected Results:
+User should be able to provide operating days and operating time
+
+Actual Result: 
+User is able to provide operating days and operating time
