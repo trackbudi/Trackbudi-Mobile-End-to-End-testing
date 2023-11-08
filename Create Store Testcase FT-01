@@ -1,1 +1,24 @@
+Test Case 04: Create Store
 
+Test Case Title: Create Store
+
+Test Case ID: Create Store Ft - 01
+
+Description: Verify that users can Create a new store
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps:
+Click on the Create store at the top corner
+Provide Name of store
+Provide a detailed description to your store
+Upload banner or Logo
+Click Create Store
+
+
+Expected Results:
+User should be able to create Store 
+
+Actual Result: 
+User is able to Create store 
