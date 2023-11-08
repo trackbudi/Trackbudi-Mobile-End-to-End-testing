@@ -12,14 +12,27 @@ The application is installed and launched.
 The user is on the registration/login screen on the profile page.
 
 Test Steps:
-log in options
-Apple account, Facebook account, google account, email address
-Click on the "continue with email".
-Enter a valid user email address that is available to receive a confirmation code.
-click "send email"
+Signup Option
+Phone Number
+
+Enter a valid user phone number that is available to receive a confirmation code.
+click "Verify and continue"
 Enter the confirmation code that was sent 
-Verify that the user is successfully logged in 
-Verify that the user's name or profile picture (if applicable) is displayed on the home screen.
+
+Fill Personal Information
+Enter your first name
+Enter your Last name
+Enter email address
+Provide a secured password 
+confirm your password 
+Accept Terms and condition.
+Fill Company Information
+Enter your business name 
+Choose type of goods
+Select contry 
+Enter Pickup Address
+Accept community Guidelines
+The user get logs in
 
 Expected Results:
 The user should be able to complete the registration and login processes without any errors.
