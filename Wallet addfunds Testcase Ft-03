@@ -1,0 +1,35 @@
+Test Case 05: Wallet add funds 
+
+Test Case Title: Wallet add funds 
+
+Test Case ID: Wallet Add fundsFt - 03
+
+Description: Verify that users can add funds
+
+Preconditions:
+The user is logged in and on the application's home screen.
+
+Test Steps to add funds:
+Click on wallet 
+Click on Add funds 
+select convinient method (Use card, Make transfer, Pay with USSD.
+Use Card 
+Enter Amount
+add new card
+Enter card number,  card expiry  and CVV
+Click Pay
+Continue to wallet to confirm new balance 
+
+Bank transfer 
+Copy account number and deposit the money
+
+Pay with USSD
+Enter Amount
+Click top u
+Copy the USSD code provide and make the payment 
+
+Expected Results:
+User should be able to add funds to the wallet
+
+Actual Result: 
+
