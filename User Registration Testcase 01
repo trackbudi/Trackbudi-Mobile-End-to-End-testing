@@ -1,5 +1,5 @@
 
-Test Case 1: User Registration/Login
+Test Case 1: User Registration
 
 Test Case Title: User Registration and Login
 
@@ -32,6 +32,7 @@ Choose type of goods
 Select contry 
 Enter Pickup Address
 Accept community Guidelines
+
 The user get logs in
 
 Expected Results:
