@@ -1,1 +1,26 @@
+Test Case 07: Help and support Testcase
 
+Test Case Title:Help and support Testcase
+
+Test Case ID: Help and support Testcase Ft - 06
+
+Description: Verify that users contact support, Help center, and contact on telegram
+
+Preconditions:
+The user is logged in and on the application's home page
+Test Steps:
+Click More
+click on help and support
+Click contact support
+Click on message
+send a text and image
+verify to recieve feedback
+
+click on help center to see FAQ
+Click on contact is to join telegram group
+
+Expected Results:
+User should be able to contact support and view help center FAQ and join the community on telegram
+
+Actual Result: 
+User can contact support and view help center FAQ and join the community on telegram
