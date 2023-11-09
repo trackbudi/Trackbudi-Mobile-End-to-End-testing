@@ -1,0 +1,20 @@
+Test Case 08: Process returns 
+
+Test Case Title:Process Returns
+
+Test Case ID: Process return Ft - 07
+
+Description: Verify that users See opened and closed returns
+
+Preconditions:
+The user is logged in and on the application's home page
+
+Test Steps:
+Click More
+click on Process returns
+
+
+Expected Results:
+User should be able to see processed open and closed returns 
+Actual Result: 
+User can see processed open and closed returns 
