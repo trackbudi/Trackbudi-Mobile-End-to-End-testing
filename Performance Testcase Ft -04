@@ -1,0 +1,22 @@
+Test Case 05: Edit products in store
+
+Test Case Title: Performance Ft -04
+
+Test Case ID: Edit products in store Ft - 02
+
+Description: Verify that users can see their store performance 
+
+Preconditions:
+The user is logged in and on the application's home page
+Test Steps:
+Click More
+click performance
+Click store 
+Click on the info sign to se the store value, total goods ever sold, total products unit, total amount earned, total profit earned
+click on sales date to change a particular report for a month
+verify you can see increment of Total orders, Amount earned in sales, product unit sold, total returns, amount earned in profit.
+
+Expected Results:
+User should be able to see performance increment in the above metrics
+
+Actual Result: 
