@@ -1,1 +1,38 @@
+Test Case 05: Wallet add funds 
 
+Test Case Title: Orders Testcase
+
+Test Case ID: Orders Testcase Ft - 003
+
+Description: Verify that users recieve orders
+
+Preconditions:
+The user is logged in and on the application's Order screen. 
+An order have been sent and product paid for by a buyer
+
+
+Test Steps 
+Click on Order
+Swipe to Current to see orders
+Verify that you can see the buyers name, verify address and see the delivery option selected by the buyer
+verify that a seller can see the delivery time 
+User can  view product details  image, product id(Change product ID), and see quantity and amount
+    See the customers details  (name, phone number and can call , address, delivery fee, and total weight(its showing zero))
+Can request pickup address 
+select pickup time 
+select weight
+input customers name, email, phone number delivery date and address  
+click save requests move to unassigned in orders
+
+verify that the other status changes 
+Can view Order details, image, product id(Change product ID), and see quantity and amount
+    See the customers details  (name, phone number and can call , address, delivery fee, and total weight(its showing zero))
+
+New order
+Click new order
+Select store
+Select pickupn
+Expected Results:
+User should be able to add funds to the wallet
+
+Actual Result: 
