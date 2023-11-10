@@ -1,4 +1,34 @@
-New order
+Test Case 05: Orders Testcase
+Test Case Title: Orders Testcase
+
+Test Case ID: NewvOrders Testcase Ft - 003
+
+Description: Verify that users Create orders
+
+Preconditions:
+The user is logged in and on the application's Order screen. 
+An order have been sent and product paid for by a buyer
+
+
+Test Steps 
+Click on Order
 Click new order
 Select store
-Select pickupn
+Select pickup address 
+Select the estimated pickup time 
+select weight
+input customers name 
+Input customers email, phone number 
+select delivery date and delivery adderess
+click confirm order
+
+Expected Results:
+User should be able to create new orders and see them in the unassigned 
+
+Actual Result: User can create new orders and see them in the unassigned 
+
+
+
+
+
+
