@@ -28,11 +28,8 @@ verify that the other status changes
 Can view Order details, image, product id(Change product ID), and see quantity and amount
     See the customers details  (name, phone number and can call , address, delivery fee, and total weight(its showing zero))
 
-New order
-Click new order
-Select store
-Select pickupn
-Expected Results:
-User should be able to add funds to the wallet
 
-Actual Result: 
+Expected Results:
+User should be able Recieve and track orders
+
+Actual Result: User can Recieve and track orders
