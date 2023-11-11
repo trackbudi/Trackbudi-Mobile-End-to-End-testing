@@ -7,7 +7,6 @@ Description: Verify that users Create orders
 
 Preconditions:
 The user is logged in and on the application's Order screen. 
-An order have been sent and product paid for by a buyer
 
 
 Test Steps 
