@@ -1,0 +1,30 @@
+Test Case 05: Personal details and vendor details settings
+
+Test Case Title: Personal details and vendor details settings
+
+Test Case ID: Personal details and vendor details settings
+
+Description: Verify that users edit profile
+
+Preconditions:
+The user is logged in and on the application's home page
+
+Test Steps:
+Click More
+click on the image icon
+
+Personal details 
+Click on the edit sign to dit your first name and last name and profile picture
+verify that user cannot edit phone number and email address except through contact support
+change password 
+    Provide the old password
+    and new password
+
+Expected Results:
+User should be able to update name and picture and cannot edit phone number and email address and can change password
+
+
+Actual Result: user cannot update name and picture, 
+user cannot edit phone number and email address
+user can change password
+the contact support does not open the support channel
