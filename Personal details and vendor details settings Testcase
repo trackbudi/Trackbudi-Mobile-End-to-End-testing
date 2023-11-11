@@ -19,12 +19,20 @@ verify that user cannot edit phone number and email address except through conta
 change password 
     Provide the old password
     and new password
+Edit business details
+Click on edit to edit details
+Edit business name
+edit type of goods
+Edit cac document
+Edit operating hours
+Edit pickup address
+Edit social media handles
 
 Expected Results:
-User should be able to update name and picture and cannot edit phone number and email address and can change password
+User should be able to update business name, type of goods, 
+CAC doc, operating days and hours and pick up and land mark and social media handles
 
 
 Actual Result: user cannot update name and picture, 
-user cannot edit phone number and email address
-user can change password
-the contact support does not open the support channel
+User cannot update business name, type of goods, 
+CAC doc, operating days and hours and pick up and land mark and social media handles
